@@ -1,6 +1,6 @@
 body {
   background-color: rgba(	250, 163, 7,0.75);
-  font-family:Comic Sans MS, Comic Sans, cursive;
+  font-family:Comic Sans MS, font-family:Comic Sans MS,Georgia, 'Times New Roman', Times, serif;
 }
 img {
   margin:5px;
@@ -63,7 +63,7 @@ img {
   border: 5px solid #774936
 }
 button {
-  font-family:Comic Sans MS, Comic Sans, cursive;
+  font-family:Comic Sans MS, font-family:Comic Sans MS,Georgia, 'Times New Roman', Times, serif;
   color:#ffbd00;
   font-weight: bolder;
   width:120px;
